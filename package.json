@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DaddaFarouk.github.io/Weather-Map",
+  "homepage": "http://DaddaFarouk.github.io/Weather-Map",
   "dependencies": {
     "@iconify/icons-mdi": "^1.0.152",
     "@testing-library/jest-dom": "^5.11.4",

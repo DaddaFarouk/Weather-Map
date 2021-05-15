@@ -14,7 +14,7 @@ const App = () => {
   useEffect(() => {
     let coords = [];
     const fetchInfos = async (props) => {
-     const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?id=${props}&appid=4742c48b3c59c8a36bf8138457495317`)  
+     const res = await fetch(`http://api.openweathermap.org/data/2.5/weather?id=${props}&appid=4742c48b3c59c8a36bf8138457495317`)  
      const {coord,weather,main,name} = await res.json()  
      coords.push({coord,weather,main,name})
     }
