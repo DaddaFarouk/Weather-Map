@@ -1,0 +1,614 @@
+[
+{
+        "id": 2553603,
+        "name": "Casablanca",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.58333,
+            "lat": 33.533329
+        }
+    },
+{
+        "id": 2548885,
+        "name": "Fès",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.9998,
+            "lat": 34.037151
+        }
+    },
+{
+        "id": 6546249,
+        "name": "Tanger",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.80936,
+            "lat": 35.771309
+        }
+    },
+
+{
+        "id": 2542997,
+        "name": "Marrakesh",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.00828,
+            "lat": 31.631479
+        }
+    },
+
+{
+        "id": 6546578,
+        "name": "Meknes",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.53329,
+            "lat": 33.882339
+        }
+    },
+{
+        "id": 2538475,
+        "name": "Rabat",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.83255,
+            "lat": 34.013248
+        }
+    },
+{
+        "id": 6545974,
+        "name": "Oujda",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -1.9108,
+            "lat": 34.68288
+        }
+    },
+{
+        "id": 2544571,
+        "name": "Kenitra",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.5802,
+            "lat": 34.261009
+        }
+    },
+{
+        "id": 2561668,
+        "name": "Agadir",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -9.59815,
+            "lat": 30.420179
+        }
+    },
+{
+        "id": 2528907,
+        "name": "Tetouan",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.5,
+            "lat": 35.583328
+        }
+    },
+{
+        "id": 2529013,
+        "name": "Temara",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.90656,
+            "lat": 33.928661
+        }
+    },
+{
+        "id": 2537878,
+        "name": "Safi",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.83333,
+            "lat": 32.166672
+        }
+    },
+{
+        "id": 2542051,
+        "name": "Mohammedia",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.39442,
+            "lat": 33.706589
+        }
+    },
+{
+        "id": 2544248,
+        "name": "Khouribga",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.9063,
+            "lat": 32.881081
+        }
+    },
+{
+        "id": 2555742,
+        "name": "Beni-Mellal",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.33333,
+            "lat": 32.5
+        }
+    },
+{
+        "id": 2541479,
+        "name": "Nador",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -2.92866,
+            "lat": 35.174042
+        }
+    },
+{
+        "id": 2529317,
+        "name": "Taza",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.01,
+            "lat": 34.209999
+        }
+    },
+{
+        "id": 2537406,
+        "name": "Settat",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.62035,
+            "lat": 33.000702
+        }
+    },
+{
+        "id": 2544363,
+        "name": "Khemisset",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.25,
+            "lat": 33.666672
+        }
+    },
+    {
+        "id": 2550078,
+        "name": "El Jadid",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.50602,
+            "lat": 33.254921
+        }
+    },
+    {
+        "id": 2550252,
+        "name": "El Hajeb",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.371,
+            "lat": 33.687859
+        }
+    },
+    {
+        "id": 2550479,
+        "name": "Al Fayd",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.21466,
+            "lat": 30.61496
+        }
+    },
+    {
+        "id": 2550554,
+        "name": "El Borj",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -2.42292,
+            "lat": 35.131279
+        }
+    },
+    {
+        "id": 2550684,
+        "name": "Ouaoula",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.75,
+            "lat": 31.870001
+        }
+    },
+    {
+        "id": 2550806,
+        "name": "El Aïoun",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -2.50612,
+            "lat": 34.583191
+        }
+    },
+    {
+        "id": 2550985,
+        "name": "Driouch",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -3.37902,
+            "lat": 34.977051
+        }
+    },
+    {
+        "id": 2551043,
+        "name": "Dou Tourga",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -9.73,
+            "lat": 29.709999
+        }
+    },
+    {
+        "id": 2551646,
+        "name": "Douar Jdida",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.86,
+            "lat": 31.280001
+        }
+    },
+    {
+        "id": 2551808,
+        "name": "Douar Lhajra",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.30246,
+            "lat": 31.82439
+        }
+    },
+    {
+        "id": 2552306,
+        "name": "Derdara",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.29015,
+            "lat": 35.110409
+        }
+    },
+    {
+        "id": 2552317,
+        "name": "Demnate",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.00505,
+            "lat": 31.73443
+        }
+    },
+    {
+        "id": 2552407,
+        "name": "Debdou",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -3.04263,
+            "lat": 33.982281
+        }
+    },
+    {
+        "id": 2552531,
+        "name": "Riah",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.37504,
+            "lat": 33.151218
+        }
+    },
+    {
+        "id": 2552545,
+        "name": "Dar Ould Zidouh",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.90494,
+            "lat": 32.312469
+        }
+    },
+    {
+        "id": 2552615,
+        "name": "Dar Bouazza",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.81677,
+            "lat": 33.51535
+        }
+    },
+    {
+        "id": 2552886,
+        "name": "Dar Chaoui",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.71742,
+            "lat": 35.537701
+        }
+    },
+    {
+        "id": 2553303,
+        "name": "Chichaoua",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.76274,
+            "lat": 31.54351
+        }
+    },
+    {
+        "id": 2553455,
+        "name": "Chefchaouene",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.2636,
+            "lat": 35.168781
+        }
+    },
+    {
+        "id": 2546906,
+        "name": "Ifrane",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.25,
+            "lat": 33.333328
+        }
+    },
+    {
+        "id": 2546917,
+        "name": "Ifrane",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.11019,
+            "lat": 33.526661
+        }
+    },
+    {
+        "id": 2547782,
+        "name": "Hassi Berkane",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -2.86699,
+            "lat": 34.838982
+        }
+    },
+    {
+        "id": 2548313,
+        "name": "Zerkten",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.39224,
+            "lat": 31.4447
+        }
+    },
+    {
+        "id": 2548320,
+        "name": "Had Kourt",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.7404,
+            "lat": 34.615879
+        }
+    },
+    {
+        "id": 2548420,
+        "name": "Guisser",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.49818,
+            "lat": 32.766449
+        }
+    },
+    {
+        "id": 2548489,
+        "name": "Guercif",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -3.35361,
+            "lat": 34.225681
+        }
+    },
+    {
+        "id": 2548503,
+        "name": "Guenfouda",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -2.04562,
+            "lat": 34.483608
+        }
+    },
+    {
+        "id": 2548526,
+        "name": "Guelmim",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -10.05738,
+            "lat": 28.986959
+        }
+    },
+    {
+        "id": 2548623,
+        "name": "Goulmima",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.95256,
+            "lat": 31.69227
+        }
+    },
+    {
+        "id": 2548713,
+        "name": "Galaz",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.80355,
+            "lat": 34.544239
+        }
+    },
+    {
+        "id": 2548818,
+        "name": "Fnidek",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.35747,
+            "lat": 35.84906
+        }
+    },
+    {
+        "id": 2548830,
+        "name": "Al Fqih Ben Çalah",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.69062,
+            "lat": 32.500931
+        }
+    },
+    {
+        "id": 2548855,
+        "name": "Fifi",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.24798,
+            "lat": 34.94873
+        }
+    },
+    {
+        "id": 2548869,
+        "name": "Fezna",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.45562,
+            "lat": 31.529209
+        }
+    },
+    {
+        "id": 2548881,
+        "name": "Douar Fes El Bali",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.12505,
+            "lat": 34.547749
+        }
+    },
+    {
+        "id": 2548882,
+        "name": "Région de Fès-Boulemane",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.25,
+            "lat": 33.333328
+        }
+    },
+    {
+        "id": 2548885,
+        "name": "Fès",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.9998,
+            "lat": 34.037151
+        }
+    },
+    {
+        "id": 2549076,
+        "name": "Ezzhiliga",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.53,
+            "lat": 33.299999
+        }
+    },
+    {
+        "id": 2549263,
+        "name": "Essaouira",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -9.77,
+            "lat": 31.512501
+        }
+    },
+    {
+        "id": 2549340,
+        "name": "Errachidia",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.5,
+            "lat": 31.75
+        }
+    },
+    {
+        "id": 2549356,
+        "name": "Arfoud",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.23752,
+            "lat": 31.43482
+        }
+    },
+    {
+        "id": 2549750,
+        "name": "El Ksiba",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.01947,
+            "lat": 32.572861
+        }
+    }
+]
