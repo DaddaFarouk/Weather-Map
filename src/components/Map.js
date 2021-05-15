@@ -21,7 +21,8 @@ const Map = ({ citiesInfo}) => {
     const markers = citiesInfo.map((info, index) => {       
             return <LocationMarker lat={info.coord.lat} lng={info.coord.lon} state={info.weather[0].description}
             onClick={() => setLocationInfo({ temp: (info.main.temp - 273).toFixed(0) , feels_like: (info.main.feels_like - 273).toFixed(0), 
-                                             weather: info.weather[0].description, humidity: info.main.humidity, pressure: info.main.pressure, name: info.name })} 
+                                             weather: info.weather[0].description, humidity: info.main.humidity, pressure: info.main.pressure, name: info.name,
+                                             temp_min: (info.main.temp_min- 273).toFixed(0), temp_max: (info.main.temp_max- 273).toFixed(0) })} 
             />     
     })
 
