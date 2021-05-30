@@ -1,5 +1,5 @@
+import React from 'react';
 import ReactAnimatedWeather from 'react-animated-weather';
-
 
 
 const LocationMarker = ({ lat, lng, state , onClick }) => {
@@ -7,14 +7,14 @@ const LocationMarker = ({ lat, lng, state , onClick }) => {
         <div className="location-marker" onClick={onClick}>          
     {state.includes("clear sky")? 
     <ReactAnimatedWeather
-    icon='CLEAR_DAY'
+    icon= 'CLEAR_DAY'
     color='goldenrod'
     size= {50}
     animate= {true}
     /> 
     : state.includes("clouds")?
     <ReactAnimatedWeather
-    icon='PARTLY_CLOUDY_DAY'
+    icon= 'PARTLY_CLOUDY_DAY'
     color='#29465b'
     size= {50}
     animate= {true}
@@ -41,7 +41,7 @@ const LocationMarker = ({ lat, lng, state , onClick }) => {
     animate= {true}
     />
     :<ReactAnimatedWeather
-    icon='PARTLY_CLOUDY_DAY'
+    icon= 'PARTLY_CLOUDY_DAY'
     color='#29465b'
     size= {50}
     animate= {true}

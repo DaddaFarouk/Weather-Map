@@ -40,15 +40,14 @@
             "lat": 31.631479
         }
     },
-
-{
-        "id": 6546578,
-        "name": "Meknes",
+ {
+        "id": 2542715,
+        "name": "Meknès",
         "state": "",
         "country": "MA",
         "coord": {
-            "lon": -5.53329,
-            "lat": 33.882339
+            "lon": -5.54727,
+            "lat": 33.89352
         }
     },
 {
@@ -82,6 +81,56 @@
         }
     },
 {
+        "id": 2540846,
+        "name": "Ouarzazate",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -6.90285,
+            "lat": 30.941299
+        }
+    },
+{
+        "id": 2530241,
+        "name": "Tan-Tan",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -11.10321,
+            "lat": 28.43799
+        }
+    },
+{
+        "id": 2529362,
+        "name": "Tata",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -7.973,
+            "lat": 29.744089
+        }
+    },
+{
+        "id": 2542227,
+        "name": "Midelt",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -4.74512,
+            "lat": 32.6852
+        }
+    },
+{
+        "id": 6545905,
+        "name": "Zagora",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.83517,
+            "lat": 30.30452
+        }
+    },
+{
         "id": 2561668,
         "name": "Agadir",
         "state": "",
@@ -109,16 +158,6 @@
         "coord": {
             "lon": -6.90656,
             "lat": 33.928661
-        }
-    },
-{
-        "id": 2537878,
-        "name": "Safi",
-        "state": "",
-        "country": "MA",
-        "coord": {
-            "lon": -8.83333,
-            "lat": 32.166672
         }
     },
 {
@@ -572,13 +611,53 @@
         }
     },
     {
-        "id": 2549340,
+        "id": 7280528,
         "name": "Errachidia",
         "state": "",
         "country": "MA",
         "coord": {
-            "lon": -4.5,
-            "lat": 31.75
+            "lon": -4.42852,
+            "lat": 31.92754
+        }
+    },
+{
+        "id": 2558545,
+        "name": "Al Hoceïma",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -3.93092,
+            "lat": 35.243328
+        }
+    },
+{
+        "id": 2529649,
+        "name": "Taroudant",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -8.87695,
+            "lat": 30.47028
+        }
+    },
+{
+        "id": 2543546,
+        "name": "Larache",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.83333,
+            "lat": 35.166672
+        }
+    },
+{
+        "id": 2537881,
+        "name": "Safi",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -9.23718,
+            "lat": 32.299389
         }
     },
     {
@@ -599,6 +678,26 @@
         "coord": {
             "lon": -6.01947,
             "lat": 32.572861
+        }
+    },
+{
+        "id": 2544331,
+        "name": "Khenifra",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.66667,
+            "lat": 32.933331
+        }
+    },
+    {
+        "id": 2527915,
+        "name": "Tinghir",
+        "state": "",
+        "country": "MA",
+        "coord": {
+            "lon": -5.53428,
+            "lat": 31.515711
         }
     }
 ]
